@@ -11,6 +11,7 @@
 # Import functions into program for use
 #------------------------------------------------------------------------------
 import csv
+import numpy as np
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 
